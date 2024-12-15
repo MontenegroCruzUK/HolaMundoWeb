@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello Worldc Desde Html</h1> 
+        <h1>Hello World Desde Html</h1> 
         <%String hola ="Hola mundo desde java";%>
         <%=hola%>
     </body>
