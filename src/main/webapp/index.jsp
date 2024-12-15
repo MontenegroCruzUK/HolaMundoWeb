@@ -14,5 +14,6 @@
     <body>
         <h1>Hello Worldc Desde Html</h1> 
         <%String hola ="Hola mundo desde java";%>
+        <%=hola%>
     </body>
 </html>
